@@ -3,7 +3,7 @@
   <img src="https://github.com/DowellHd/DowellHd/blob/main/GitHub%20Banner.png" alt="Dowell Standley - AI Developer" width="100%">
 </p>
 
-<h1 align="center">Hey, I'm Dowell 👋</h1>
+<h1 align="center">Hey, I'm Dowell 👋🏾</h1>
 
 <p align="center">
   <b>CS Grad • AI/ML Developer • Tech Enthusiast</b>  
