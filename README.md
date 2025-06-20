@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Dowell Standley Jr.
+# 👋🏾 Hey there, I’m Dowell Standley Jr.
 
 🎓 Recent CS Grad | 🤖 Aspiring AI/ML Developer | 💡 Lifelong Learner  
 📍 Based in Emeryville, CA  
