@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/DowellHd/DowellHd/blob/main/GitHub%20Banner.png" alt="Dowell Standley - AI Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/DowellHd/DowellHd/main/Banner.gif" alt="Dowell Standley - AI Developer" width="100%">
 </p>
 
 <h1 align="center">Hey, I'm Dowell 👋🏾</h1>
