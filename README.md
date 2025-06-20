@@ -27,12 +27,6 @@
 🌟 **[Smart Stock Bot](https://github.com/DowellHd/smart-stock-bot)**  
 > DQN-based trading agent that learns when to buy, sell, or hold using market data.
 
-📊 **[AI Market Dashboard](https://github.com/DowellHd/market-dashboard)**  
-> Flask-powered web interface that serves up real-time investment predictions.
-
-🧪 **[ML Playground](https://github.com/DowellHd/ai-experiments)**  
-> Personal lab for playing with NLP, image classification, and transformers.
-
 ---
 
 ### ⚙️ Tech Stack & Tools
