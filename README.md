@@ -43,7 +43,7 @@
 
 ### 🌐 Connect with Me
 
-- 📫 Email: dstandley@yahoo.com  
+- 📫 Email: standleydowell@gmail.com  
 - 🌍 Website: [dowellstandley.com](https://dowellstandley.com)  
 - 💼 LinkedIn: [linkedin.com/in/dowellstandley](https://www.linkedin.com/in/dowellstandley/)
 
