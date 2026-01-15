@@ -49,11 +49,17 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DowellHd&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DowellHd&layout=compact&theme=radical" height="160"/>
+  <img
+    src="https://github-readme-stats-vercel-rho.vercel.app/api?username=DowellHd&show_icons=true&theme=radical&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-vercel-rho.vercel.app/api/top-langs/?username=DowellHd&layout=compact&theme=radical&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
