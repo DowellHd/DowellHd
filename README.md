@@ -25,7 +25,7 @@
 ### 🚀 Projects I'm Proud Of
 
 🌟 **[Smart Stock Bot](https://github.com/DowellHd/smart-stock-bot)**  
-> DQN-based trading agent that learns when to buy, sell, or hold using market data.
+> AI-driven financial analytics platform leveraging machine learning to analyze market behavior, detect regimes, assess risk, and generate actionable strategy insights.
 
 ---
 
