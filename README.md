@@ -24,8 +24,8 @@
 
 ### 🚀 Projects I'm Proud Of
 
-🌟 **[Smart Stock Bot](https://github.com/DowellHd/smart-stock-bot)**  
-> AI-driven financial analytics platform leveraging machine learning to analyze market behavior, detect regimes, assess risk, and generate actionable strategy insights.
+🌟 **[Smart Strategies Builder (SSB)](https://github.com/DowellHd/smart-stock-bot)**  
+> A financial intelligence and analytics platform for understanding market behavior, detecting regimes, assessing risk, and evaluating strategies through deterministic backtesting and simulations. Built with a security-first, SaaS-ready architecture and designed for transparency, education, and decision support — not trade execution.
 
 ---
 
