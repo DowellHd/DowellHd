@@ -53,11 +53,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-vercel-rho.vercel.app/api?username=DowellHd&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-vercel-rho.vercel.app/api?username=DowellHd&v=2&show_icons=true&theme=radical&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats-vercel-rho.vercel.app/api/top-langs/?username=DowellHd&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats-vercel-rho.vercel.app/api/top-langs/?username=DowellHd&v=2&layout=compact&theme=radical&hide_border=true"
     height="165"
   />
 </p>
