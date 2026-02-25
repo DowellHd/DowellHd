@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Recent Computer Science graduate from CSU East Bay  
+- 🎓 Computer Science graduate from CSU East Bay  
 - 🤖 Passionate about building AI systems that learn, adapt, and evolve  
 - 🛠️ Exploring reinforcement learning, neural networks, and AI investing  
 - 🌉 Based in the Bay Area — let's build something amazing
