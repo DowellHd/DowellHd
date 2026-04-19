@@ -57,7 +57,7 @@
     height="165"
   />
   <img
-    src="https://github-readme-stats-vercel-rho.vercel.app/api/top-langs/?username=DowellHd&v=2&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats-vercel-rho.vercel.app/api/top-langs/?username=DowellHd&v=3&layout=donut&theme=radical&hide_border=true"
     height="165"
   />
 </p>
