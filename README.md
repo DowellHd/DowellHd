@@ -53,7 +53,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-vercel-rho.vercel.app/api?username=DowellHd&v=2&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-vercel-rho.vercel.app/api?username=DowellHd&v=2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
     height="165"
   />
   <img
